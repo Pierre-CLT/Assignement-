@@ -1,0 +1,25 @@
+{
+  "name": "Assignment 1",
+  "version": "1.0.0",
+  "description": "This is the assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js && mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentNOURY/Advanced-web-programming.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "NOURY Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentNOURY/Advanced-web-programming/issues"
+  },
+  "homepage": "https://github.com/VincentNOURY/Advanced-web-programming#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
